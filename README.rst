@@ -73,7 +73,7 @@ That's good for a starter. But there are two significant drawbacks:
 1. Developers have to do non-trivial operations if they want to keep up with
    newer versions (that have bug fixes and performance improvements).
 2. Indirect dependencies (that is dependencies of dependencies) may still have
-   backward-incompatible releases, that brake everything.
+   backward-incompatible releases, that break everything.
 
 Let's put aside point 1 and fight point 2. Let's do
 
